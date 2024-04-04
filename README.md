@@ -13,9 +13,8 @@
 
 ### 🔍 **Key Findings:**
 
-1. **Data Cleaning:**
-
-We ensured data integrity by removing missing values and irrelevant columns. This foundational step paved the way for accurate analysis. 🧹
+1. **Data Cleaning:** We ensured data integrity by removing missing values and irrelevant columns. This foundational step paved the way for 
+                      accurate analysis. 🧹
 
 2. **Adaptation:**
 
