@@ -35,7 +35,7 @@ Our findings hold the potential to revolutionize the job search and recruitment 
 
 #### 📊 **Plots for Project Report:**
 
-* **Salary by Functional Area: **Visualizes salary distribution across different functional areas.
+* **Salary by Functional Area:** Visualizes salary distribution across different functional areas.
 * **Salary by Industry:** Illustrates the relationship between salary levels and various industries.
 * **Correlation Heatmap:** Displays correlations between key variables, aiding understanding of their relationships.
 * **Functional Area Distribution:** Provides insights into the prevalence of different functional areas in job postings.
