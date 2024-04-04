@@ -13,10 +13,11 @@
 
 ### 🔍 **Key Findings:**
 
-1. **Data Cleaning:** We ensured data integrity by removing missing values and irrelevant columns. This foundational step paved the way for 
-                      accurate analysis. 🧹
+1. **Data Cleaning:**
+          We ensured data integrity by removing missing values and irrelevant columns. This foundational step paved the way for accurate 
+          analysis. 🧹
 
-2. **Adaptation:**
+3. **Adaptation:**
 
 By calculating the average years of experience required for each job posting, we gained insights into industry standards and expectations. 📈
 
