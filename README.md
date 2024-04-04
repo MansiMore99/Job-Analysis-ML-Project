@@ -31,7 +31,7 @@ ML Algorithm: Leveraging Linear Regression, we forecasted salaries based on data
 #### 🔑 **Conclusion:**
 Our findings hold the potential to revolutionize the job search and recruitment landscape, empowering stakeholders with valuable insights for better decision-making. 🚀
 
-#### **Recommendations:** Implement ML models for skill prediction and salary estimation to further enhance user experience and platform effectiveness. 💡
+#### 📝 **Recommendations:** Implement ML models for skill prediction and salary estimation to further enhance user experience and platform effectiveness. 💡
 
 #### 📊 **Plots for Project Report:**
 
