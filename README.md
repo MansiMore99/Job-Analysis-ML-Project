@@ -1,4 +1,4 @@
-### 📊 **Job Analysis Project Report**
+## 📊 **Job Analysis Project Report**
 
 
 
@@ -44,28 +44,28 @@ Examining relationships between various factors and salary, we provided insights
 
 By delving into the combined effects of multiple variables on salary, we offered a nuanced understanding of salary determinants. 🤝
 
-#### 🔑 **Conclusion:**
+### 🔑 **Conclusion:**
 Our findings hold the potential to revolutionize the job search and recruitment landscape, empowering stakeholders with valuable insights for better decision-making. 🚀
 
-#### 📝 **Recommendations:** 
+### 📝 **Recommendations:** 
 Implement ML models for skill prediction and salary estimation to further enhance user experience and platform effectiveness. 💡
 
-#### 📊 **Plots for Project Report:**
+### 📊 **Plots for Project Report:**
 
 * **Salary by Functional Area:** Visualizes salary distribution across different functional areas.
 * **Salary by Industry:** Illustrates the relationship between salary levels and various industries.
 * **Correlation Heatmap:** Displays correlations between key variables, aiding understanding of their relationships.
 * **Functional Area Distribution:** Provides insights into the prevalence of different functional areas in job postings.
 
-#### 📝 **Executive Summary:**
+### 📝 **Executive Summary:**
 
 Our project offers transformative insights into job market dynamics, with the potential to significantly impact decision-making processes. Leveraging these findings can lead to more informed choices and improved outcomes for both job seekers and employers.
 
-#### 🚀 **Next Steps:**
+### 🚀 **Next Steps:**
 
 Continue developing ML models for skill prediction and salary estimation to further refine and expand project capabilities. Additionally, further research on emerging job market trends can provide valuable insights for future decision-making.
 
-#### 📌 **Crucial Notes:**
+### 📌 **Crucial Notes:**
 
 This report provides a high-level overview; for more detailed analysis, please refer to the technical report. Results are based on a single dataset and may vary depending on the data used. Implementation of recommendations requires the necessary resources and expertise.
 
